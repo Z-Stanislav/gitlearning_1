@@ -1,1 +1,3 @@
-## Hello
+## Hello!
+
+Lecture version 3
